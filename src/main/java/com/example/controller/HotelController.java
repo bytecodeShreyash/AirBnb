@@ -47,6 +47,4 @@ public class HotelController {
         return new ResponseEntity<>("Hotel not found",HttpStatus.NOT_FOUND);
 
     }
-
-
 }
